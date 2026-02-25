@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12635195197",
+    "project_id": "enadmohammed-84875",
+    "storage_bucket": "enadmohammed-84875.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12635195197:android:dafb3b034aee8b29ac2754",
+        "android_client_info": {
+          "package_name": "com.example.admin_notify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg6Voj4ISHYmH6aULbKm_ByWU2_tCjllM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
